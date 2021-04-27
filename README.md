@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/testimonials-using-css-grids-o4p4JO9BU)
-- Live Site URL: [](https://blackeye-101.github.io/fem.io-chlng2/)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/testimonials-using-css-grids-o4p4JO9BU)
+- Live Site URL: [live-site](https://blackeye-101.github.io/fem.io-chlng2/)
 
 ## My process
 
